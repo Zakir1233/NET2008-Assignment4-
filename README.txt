@@ -12,7 +12,8 @@ How to build and run using Docker:
 2. docker run -it username/calculator-app
 
 GitHub Repository URL:
-(put your GitHub link here)
+https://github.com/Zakir1233/NET2008-Assignment4-
 
 Docker Hub Image URL:
 (put your Docker Hub link here)
+
